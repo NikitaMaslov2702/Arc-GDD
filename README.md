@@ -2,7 +2,7 @@ This repository is the GDD (**G**ame **D**esign **D**ocument) for the game proje
 # **ARC: RESOURCE CAPTURE** (or just **A:RC**)
 
 ![\*Pretend there's the splash artwork of the project, I don't have any yet]()
-_Tagline: **SHOOT AND SPIN IS HOW YOU WIN**_ %%Absolute dogshit of a tagline, will probably think of something else%%
+_I came. I spun. I counquered._
 
 > [!INFO]
 > This page also serves as this GDD's **packaging**
